@@ -1,1 +1,0 @@
-# Vypis_Uctu
