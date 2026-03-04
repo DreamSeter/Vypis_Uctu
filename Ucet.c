@@ -79,7 +79,7 @@ int main() {
 
     int mesic;
     int den;
- int rok;
+    int rok;
 
     printf("Zadej rok:");
     scanf("%d" , &rok);
